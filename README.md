@@ -1,4 +1,4 @@
-# navigation_bar
+# Navigation_bar
 🚀Presenting to you one of my mini project of navigation bar using HTML and CSS. 📲
 
 ✨Creating a navigation bar is a fundamental exercise in web development. Here's a project description for building a simple yet functional navigation bar using HTML and CSS.🎉
